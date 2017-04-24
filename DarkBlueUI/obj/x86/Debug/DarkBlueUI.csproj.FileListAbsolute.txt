@@ -1,0 +1,57 @@
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.exe
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.pdb
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI_MarkupCompile.cache
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.g.resources
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.Properties.Resources.resources
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.exe
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.pdb
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Page1.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Page2.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Brushes.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Icons.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Page1.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Page2.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkBlue\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.g.cs
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.exe
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.pdb
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.csprojResolveAssemblyReference.cache
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Brushes.baml
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.baml
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Icons.baml
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.baml
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.g.cs
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.g.cs
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI_MarkupCompile.cache
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.g.resources
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.Properties.Resources.resources
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.csproj.GenerateResource.Cache
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.exe
+C:\Users\Gloomy\Desktop\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.pdb
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.exe
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.pdb
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.exe
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.pdb
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.csprojResolveAssemblyReference.cache
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Brushes.baml
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.baml
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Icons.baml
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.baml
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\Themes\Core.g.cs
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\App.g.cs
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI_MarkupCompile.cache
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.g.resources
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.Properties.Resources.resources
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\obj\x86\Debug\DarkBlueUI.csproj.GenerateResource.Cache
+C:\Users\Gloomy\Desktop\ITEA\Проект\DarkBlueUI\DarkBlueUI\bin\Debug\DarkBlueUI.exe.config
